@@ -2,7 +2,7 @@
 
 使用unity2022.3及以上版本
 
-1. 导入unitypackage和SimpleFacePresenceChecker.cs脚本
+1. 导入Release里的unitypackage和SimpleFacePresenceChecker.cs脚本
 
 2. Assets\MediaPipeUnity\Samples\Scenes\Face Detection里的FaceDetection场景为示例场景
 
